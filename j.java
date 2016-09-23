@@ -12,6 +12,7 @@ class j{
 		int year = s.nextln();
 
 		this.age = 2016 - year + 1;
+		print();
 
 
 	}
